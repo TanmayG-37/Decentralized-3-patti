@@ -98,7 +98,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## Play Now !!
 
-Deployed At: https://tpatti-frontend.herokuapp.com/
+Deployed At: [https://tpatti-frontend.herokuapp.com/](https://dazzling-williams-66c9e0.netlify.app/)
 
 Project Walkthrough: https://www.youtube.com/watch?v=4JLfwC4r14Y
 
